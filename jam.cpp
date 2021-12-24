@@ -1,4 +1,5 @@
 #include <iostream>
+//library memanggil waktu
 #include <ctime>  
 using namespace std;
 int main() {
