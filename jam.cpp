@@ -3,6 +3,7 @@
 #include <ctime>  
 using namespace std;
 int main() {
+   
    //rumus waktu di C++
    time_t now = time(0);
    char* dt = ctime(&now);
