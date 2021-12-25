@@ -3,9 +3,11 @@
 #include <ctime> 
 using namespace std;
 int main() {
-   //rumus waktu
-   time_t now = time(0);
-   char* dt = ctime(&now);
+  	 //rumus waktu
+   	 time_t now = time(0);
+  	 char* dt = ctime(&now);
 	
-   cout<<dt ;
+   	cout<<dt ;
+	//karena menggunakan fungsi main()
+	return 0;
 }
