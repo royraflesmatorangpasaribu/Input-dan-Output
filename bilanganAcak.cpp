@@ -12,6 +12,8 @@ int main(){
     acak3 = rand();
     acak4 = rand();
     acak5 = rand();
+    
+    //output
     cout << "Bilangan Acak 1 = " << acak1 << endl;
     cout << "Bilangan Acak 2 = " << acak2 << endl;
     cout << "Bilangan Acak 3 = " << acak3 << endl;
