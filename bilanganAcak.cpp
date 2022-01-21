@@ -19,4 +19,6 @@ int main(){
     cout << "Bilangan Acak 3 = " << acak3 << endl;
     cout << "Bilangan Acak 4 = " << acak4 << endl;
     cout << "Bilangan Acak 5 = " << acak5 << endl;
+    
+    return 0;
 }
