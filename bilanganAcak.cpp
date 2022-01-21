@@ -20,5 +20,6 @@ int main(){
     cout << "Bilangan Acak 4 = " << acak4 << endl;
     cout << "Bilangan Acak 5 = " << acak5 << endl;
     
+    //karena menggunakan fungsi main()
     return 0;
 }
