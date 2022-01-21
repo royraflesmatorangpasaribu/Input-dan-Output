@@ -5,6 +5,7 @@ using namespace std;
 //dibuat pada 21 Januari 2022
 
 int main(){
+    //deklarasi variabel
     int acak1, acak2, acak3, acak4, acak5;
     acak1 = rand();
     acak2 = rand();
