@@ -1,6 +1,9 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
+
+//dibuat pada 21 Januari 2022
+
 int main(){
     int acak1, acak2, acak3, acak4, acak5;
     acak1 = rand();
