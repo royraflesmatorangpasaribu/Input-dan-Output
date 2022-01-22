@@ -9,7 +9,7 @@ int main(){
     //deklarasi variabel
     int acak1, acak2, acak3, acak4, acak5;
     
-//mencetak bilangan random
+    //mencetak bilangan random
     acak1 = rand();
     acak2 = rand();
     acak3 = rand();
