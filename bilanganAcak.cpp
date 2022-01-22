@@ -4,6 +4,7 @@ using namespace std;
 
 //dibuat pada 21 Januari 2022
 
+//minimal terdapat satu fungsi 
 int main(){
     //deklarasi variabel
     int acak1, acak2, acak3, acak4, acak5;
