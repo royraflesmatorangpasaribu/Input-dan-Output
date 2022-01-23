@@ -7,7 +7,7 @@ using namespace std;
 //minimal terdapat satu fungsi 
 int main(){
     //deklarasi variabel
-    int acak1, acak2, acak3, acak4, acak5;
+     acak1, acak2, acak3, acak4, acak5;
     
     //mencetak bilangan random
     acak1 = rand();
@@ -17,6 +17,7 @@ int main(){
     acak5 = rand();
     
     //output
+    cout<<"Manampilkan 5 Bilangan Acak"<<endl;
     cout << "Bilangan Acak 1 = " << acak1 << endl;
     cout << "Bilangan Acak 2 = " << acak2 << endl;
     cout << "Bilangan Acak 3 = " << acak3 << endl;
